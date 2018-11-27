@@ -1,0 +1,10 @@
+body {background-color: #99958F; font-family: verdana}
+@import url(<link href="https://fonts.googleapis.com/css?family=Oswald" rel="stylesheet">);
+h1 {color: white; font-size: 70px; text-align: center; font-family: 'Oswald', sans-serif; text-shadow: 2px 2px 4px #000000;}
+h2 {color: white; font-size: 50px; text-align: center; font-family: 'Oswald', sans-serif; text-shadow: 2px 2px 4px #000000;}
+h3 {color: white; font-size: 40px; text-align: center; font-family: 'Oswald', sans-serif; text-shadow: 2px 2px 4px #000000;}
+h4 {color: white; font-size: 30px; text-align: center; font-family: 'Oswald', sans-serif; text-shadow: 2px 2px 4px #000000;}
+h5 {color: white; font-size: 50px; text-align: center; font-family: 'Oswald', sans-serif; text-shadow: 2px 2px 4px #000000;}
+p {font-family: sans-serif; font-size: 25px; text-align: center; }
+p1 {font-family: sans-serif; font-size: 20px; text-align: center; }
+a:link, a:visited {background-color: black; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block;}
